@@ -16,3 +16,11 @@ The app is built using the following technologies:
 - **ViewModel** – For state management.
 - **Retrofit** – For making network requests.
 - **Hilt** – For dependency injection.
+
+## Screenshots 
+
+![image](https://github.com/user-attachments/assets/9f20605b-f31b-43bc-b0b6-482c0f355f87)
+
+![image](https://github.com/user-attachments/assets/ad336edd-1e6c-4544-8135-1d8cf6f1a360)
+
+
