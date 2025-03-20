@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fetch</string>
+    <string name="network_not_available">Network Not Available</string>
+</resources>
