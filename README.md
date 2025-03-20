@@ -19,8 +19,8 @@ The app is built using the following technologies:
 
 ## Screenshots 
 
-![Fetch_Screenshot1](https://github.com/user-attachments/assets/186fb1ed-8ae4-4456-b656-73c40f500f0d)
+<img src="https://github.com/user-attachments/assets/186fb1ed-8ae4-4456-b656-73c40f500f0d" alt="Fetch Screenshot 1" width="400">
 
-![Fetch_Screenshot2](https://github.com/user-attachments/assets/9dc34e44-5e13-478d-b61f-96167e339f63)
+<img src="https://github.com/user-attachments/assets/9dc34e44-5e13-478d-b61f-96167e339f63" alt="Fetch Screenshot 2" width="400">
 
 
